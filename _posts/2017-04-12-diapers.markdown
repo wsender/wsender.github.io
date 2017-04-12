@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Why?"
-date:   2017-04-11 19:12:24 -0400
-categories: jekyll update
----
-I LOVE POOPY DIAPERS!
-I LOVE POOPY DIAPERS!
